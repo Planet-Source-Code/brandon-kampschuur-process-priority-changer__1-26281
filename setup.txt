@@ -1,0 +1,2 @@
+r25run32	Normal	Idle
+notepad	Normal	High
